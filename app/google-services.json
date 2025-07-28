@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668387698392",
+    "project_id": "gibli-41aca",
+    "storage_bucket": "gibli-41aca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668387698392:android:096c40ee90548fb12899ad",
+        "android_client_info": {
+          "package_name": "com.wassha.animateimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMyj0ytEjt6vo6cfliraSe7JA8zBRRlDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
